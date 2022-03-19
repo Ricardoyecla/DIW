@@ -1,6 +1,9 @@
 # DIW
 ## Flex
 ### Div que ocupe todo el alto de la ventana y centrar su contendido usando flex.
+
+<details><summary>Desplegar ejemplo :roll_of_paper:		 </summary>
+
 ```html
 <!DOCTYPE html>
 <html lang="es">
@@ -44,6 +47,8 @@
   </body>
 </html>
 ```
+</details> 
+  
 Mas  información en [anto fernandez](https://www.antofernandez.com/centrar-verticalmente-con-css/).
 
 
