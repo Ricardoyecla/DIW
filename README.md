@@ -2,52 +2,14 @@
 ## Flex
 ### Div que ocupe todo el alto de la ventana y centrar su contendido usando flex.
 
+
 <details><summary>Desplegar ejemplo :roll_of_paper:		 </summary>
 
-```html
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sociograma</title>
-    <style>
-      * {
-        box-sizing: border-box;
-        padding: 0;
-        margin: 0;
-      }
-      .padre-flex {
-        background: #a8c7d6;
-        height: 100vh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-      .padre-flex > div {
-        height: 50vh;
-        width: 50vw;
-        background-color: pink;
-        text-align: center;
-        padding: 2em;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="padre-flex">
-      <div>
-        <h1>Juego flex</h1>
-        <p>
-          Un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS
-            <a href="https://flexboxfroggy.com/#es">Juego Flex</a>
-        </p>
-      </div>
-    </div>
-  </body>
-</html>
-```
+ https://github.com/Ricardoyecla/DIW/blob/fc305d82a931207cf22ac62f12b2edd551d513af/ut02/flex/ventana_completa_centrar_contenido.html#L7-L40 
+  
 </details> 
+
+
   
 Mas  información en [anto fernandez](https://www.antofernandez.com/centrar-verticalmente-con-css/).
 
